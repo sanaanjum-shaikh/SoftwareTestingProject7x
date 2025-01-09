@@ -1,6 +1,6 @@
 # SoftwareTestingProject7x
 Project List:
-Project#1 - Test Web Application for login functionality app.vwo.com
+Project#1 - Test Web Application for login functionality for (https://app.vwo.com/)
 
 Test plan
 Test Cases
